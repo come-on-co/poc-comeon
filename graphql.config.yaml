@@ -1,0 +1,4 @@
+schema:
+  - https://staging-graphql.come-on.co/v1/graphql:
+      headers:
+        x-hasura-admin-secret: itisasecret
